@@ -1,0 +1,7 @@
+E:\VSWork\socketDemo\SocketServer\PQBook\bin\Debug\PQBook.exe.config
+E:\VSWork\socketDemo\SocketServer\PQBook\bin\Debug\PQBook.exe
+E:\VSWork\socketDemo\SocketServer\PQBook\bin\Debug\PQBook.pdb
+E:\VSWork\socketDemo\SocketServer\PQBook\obj\Debug\PQBook.csproj.AssemblyReference.cache
+E:\VSWork\socketDemo\SocketServer\PQBook\obj\Debug\PQBook.csproj.CoreCompileInputs.cache
+E:\VSWork\socketDemo\SocketServer\PQBook\obj\Debug\PQBook.exe
+E:\VSWork\socketDemo\SocketServer\PQBook\obj\Debug\PQBook.pdb
