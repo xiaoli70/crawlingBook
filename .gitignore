@@ -1,0 +1,9 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/SocketServer/.vs/SocketServer/FileContentIndex/1d442f92-0a34-4a5d-943a-1f928643dba6.vsidx
+/SocketServer/WinFormsApp1/obj/Debug/net6.0-windows/WinFormsApp1.csproj.AssemblyReference.cache
+/SocketServer/WinFormsApp1/obj/Debug/net6.0-windows/WinFormsApp1.assets.cache
+/SocketServer/WinFormsApp1/obj/Debug/net6.0-windows/WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+/.gitignore
