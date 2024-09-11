@@ -29,3 +29,6 @@
 /SocketServer/TestProject1/obj/project.nuget.cache
 /SocketServer/TestProject1/obj/TestProject1.csproj.nuget.g.props
 *.cache
+/SocketServer/CrawlFiction/obj
+/SocketServer/CrawlFiction/bin
+/SocketServer/CrawlFiction/Properties/PublishProfiles

@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PQBookTests", "PQBookTests\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeBugWGSD", "DeBugWGSD\DeBugWGSD.csproj", "{1EF5C654-1BD0-48F1-BDA8-4A5FF0E7689E}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrawlFiction", "CrawlFiction\CrawlFiction.csproj", "{BB1070EF-E9EC-4B44-8373-0D8CAE3D672C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{1EF5C654-1BD0-48F1-BDA8-4A5FF0E7689E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EF5C654-1BD0-48F1-BDA8-4A5FF0E7689E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EF5C654-1BD0-48F1-BDA8-4A5FF0E7689E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB1070EF-E9EC-4B44-8373-0D8CAE3D672C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB1070EF-E9EC-4B44-8373-0D8CAE3D672C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB1070EF-E9EC-4B44-8373-0D8CAE3D672C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB1070EF-E9EC-4B44-8373-0D8CAE3D672C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
