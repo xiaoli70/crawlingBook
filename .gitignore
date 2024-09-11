@@ -32,3 +32,7 @@
 /SocketServer/CrawlFiction/obj
 /SocketServer/CrawlFiction/bin
 /SocketServer/CrawlFiction/Properties/PublishProfiles
+/SocketServer/.vs/SocketServer/DesignTimeBuild/.dtbcache.v2
+/.vs
+/SocketServer/.vs
+
