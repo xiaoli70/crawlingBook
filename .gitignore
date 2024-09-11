@@ -35,4 +35,5 @@
 /SocketServer/.vs/SocketServer/DesignTimeBuild/.dtbcache.v2
 /.vs
 /SocketServer/.vs
+*.bin
 
