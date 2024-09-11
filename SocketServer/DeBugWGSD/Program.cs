@@ -9,7 +9,7 @@ namespace DeBugWGSD
     internal static class Program
     {
         /// <summary>
-        /// 应用程序的主入口点。
+        /// 应用程序的主入口点。11111
         /// </summary>
         [STAThread]
         static void Main()
