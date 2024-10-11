@@ -37,3 +37,6 @@
 /SocketServer/.vs
 *.bin
 
+/SocketServer/.vs/ProjectEvaluation/socketserver.metadata.v7.bin
+/SocketServer/.vs/ProjectEvaluation/socketserver.projects.v7.bin
+/SocketServer/.vs/SocketServer/v17/.futdcache.v2
